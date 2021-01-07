@@ -2,4 +2,4 @@ Day 1 of 50 of Brad Traversy's course, [50 Projects in 50 Days](https://www.udem
 
 Simple cards with expanding images onClick. 
 
-An example gif can be seen in the main repo. 
+An example gif can be seen in the main repo as `expanding-cards.gif`. 
